@@ -1,4 +1,4 @@
-package com.example.croptorates.common
+package com.example.croptorates.Common
 
 object  Common {
     var imageURL = "https://res.cloudinary.com/dxi90ksom/images/upload"
